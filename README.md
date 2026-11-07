@@ -61,7 +61,7 @@ Clima Ipê é a marca fictícia utilizada na demonstração. As fotografias são
 
 ## Demonstração
 
-As capturas acima apresentam a interface. O link de acesso e o vídeo serão incluídos quando publicados.
+[Acesse a demonstração online](https://clima-ipe-ralfmota.impressivemural2.chatgpt.site). O contato permanece demonstrativo. O vídeo será incluído quando publicado.
 
 ## Código-fonte
 
