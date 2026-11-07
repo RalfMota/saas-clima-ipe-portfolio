@@ -69,4 +69,4 @@ O código completo é mantido em repositório privado. Este espaço público re�
 
 ## Desenvolvimento
 
-[Ralf Mota](https://github.com/RalfMota). Projeto desenvolvido com apoio de IA, com decisões, revisão e personalização conduzidas pelo autor.
+[Ralf Mota](https://github.com/RalfMota). 
